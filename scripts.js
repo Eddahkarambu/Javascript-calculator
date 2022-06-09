@@ -1,3 +1,12 @@
-const selectWinner = (player) => {
+const subtract = () => {
+    
+}
+const add = () => {
+    
+}
+const multiply = () => {
+    
+}
+const divide = () => {
     
 }
